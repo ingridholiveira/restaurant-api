@@ -8,7 +8,7 @@ constructor(props){
   super(props);
     this.state = {
     totalValue: 0,
-    receivedValue: 50,
+    receivedValue: 0,
     changeValue: 0,
     clientName: '',
     orderNumber: '',
