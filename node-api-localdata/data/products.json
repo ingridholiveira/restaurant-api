@@ -1,0 +1,64 @@
+{
+	"products" : [
+		{
+			"name": "Hamburguer",
+			"code" : "1",
+			"img" : "hamburguer.png",
+			"price" : "15.00"
+		},
+		{
+			"name": "Hot Dog",
+			"code" : "2",
+			"img" : "hotdog.png",
+			"price" : "10.00"
+		},
+		{
+			"name": "Pizza",
+			"code" : "3",
+			"img" : "pizza.png",
+			"price" : "13.00"
+		},
+		{
+			"name": "Batata Frita",
+			"code" : "4",
+			"img" : "fritas.png",
+			"price" : "8.00"
+		},
+		{
+			"name": "Refrigerante",
+			"code" : "5",
+			"img" : "refri.png",
+			"price" : "5.00"
+		},
+		{
+			"name": "Milk Shake",
+			"code" : "6",
+			"img" : "shake.png",
+			"price" : "7.00"
+		},
+		{
+			"name": "Cerveja",
+			"code" : "7",
+			"img" : "cerveja.png",
+			"price" : "10.00"
+		},
+		{
+			"name": "Café",
+			"code" : "8",
+			"img" : "cafe.png",
+			"price" : "3.00"
+		},
+		{
+			"name": "Sorvete",
+			"code" : "9",
+			"img" : "sorvete.png",
+			"price" : "8.00"
+		},
+		{
+			"name": "Frutas Sortidas",
+			"code" : "10",
+			"img" : "frutas.png",
+			"price" : "5.00"
+		}
+	]
+}
