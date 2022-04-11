@@ -1,6 +1,6 @@
 # Restaurante
 
-Uma aplicação desenvolvida visando facilitar a comunicação de um restaurante entre pedidos, cozinha e entregas. (inserir print das três telas + url)
+Uma aplicação desenvolvida visando facilitar a comunicação de um restaurante entre pedidos, cozinha e entregas.
 ## 🚀 Começando
 
 Primeiro clone esse repositório seguindo as intruções descritas no link abaixo:
