@@ -57,8 +57,6 @@ http://localhost:3000/delivery/
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React](https://pt-br.reactjs.org/) - O framework usado
 * [Node.JS](https://nodejs.org/en/) - Utilizado para o backend
 * [Yarn](https://yarnpkg.com/) - Utilizado para gerenciar dependências
