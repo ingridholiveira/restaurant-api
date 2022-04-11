@@ -55,6 +55,7 @@ http://localhost:3000/delivery/
 ## 📌 Importante
 
 Para a aplicação rodar perfeitamente é necessário acionar os terminais do backend e do frontend separadamente, porém ao mesmo tempo. 
+
 ## 🛠️ Construído com
 
 * [React](https://pt-br.reactjs.org/) - O framework usado
