@@ -31,7 +31,6 @@ Abra a pasta clonada no seu editor de código ou diretamente no terminal do seu 
 Pelo terminal abra a pasta node-api-localdata;
 Rode no terminal o comando: npm install;
 Ao terminar rode no terminal o comando: npm run start
-(inserir print do terminal de comando executando esses passos)
 ```
 
 ⚙️ Para rodar o frontend:
@@ -40,7 +39,6 @@ Ao terminar rode no terminal o comando: npm run start
 Pelo terminal abra a pasta node-api-localdata/front/telas;
 Rode no terminal o comando: npm install;
 Ao terminar rode no terminal o comando: yarn start
-(inserir print do terminal de comando executando esses passos)
 ```
 
 Para conferir as telas e a aplicação rodando acesse:
